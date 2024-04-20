@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713602939906" clover="3.2.0">
+  <project timestamp="1713602939906" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2" elements="14" coveredelements="14" complexity="0" loc="9" ncloc="9" packages="1" files="2" classes="2"/>
+    <file name="math.js" path="C:\Users\mbare\unitTest_example\src\math.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="stringTransformer.js" path="C:\Users\mbare\unitTest_example\src\stringTransformer.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="6" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
